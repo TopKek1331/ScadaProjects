@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PersistProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>Ping-pong</ProjectName>
+  <ProjectName.ru>Пинг-понг</ProjectName.ru>
+  <TypeName>MasterSCADA.Project.HMI</TypeName>
+  <ProjectConfiguration>MasterPLC</ProjectConfiguration>
+  <StoreTypeName>FirebirdStore</StoreTypeName>
+  <ProjectChange>2020-04-13T11:17:34.8260828+03:00</ProjectChange>
+  <ProjectVersion>8029</ProjectVersion>
+</PersistProjectInfo>
